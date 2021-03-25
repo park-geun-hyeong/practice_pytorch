@@ -1,3 +1,3 @@
 # practice_pytorch
 
-<h3>"pytorch"를 연습해보며 구현해보았던 </h3>
+<h3>"pytorch"를 연습해보며 구현해보았던 코드들</h3>
